@@ -2,6 +2,7 @@ from turtle import Turtle, Screen
 import turtle
 import pandas
 screen = Screen()
+# This function is used to get the co-ordinates as per the turtle window
 # def home(x,y):
 #     print(x,y)
 # screen.onscreenclick(home)
